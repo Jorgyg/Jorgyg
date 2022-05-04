@@ -9,4 +9,4 @@ Jorgyg/Jorgyg is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://user-images.githubusercontent.com/92818340/166713652-b95c16b5-2337-488c-8a7a-47efc434fbb4.png)
+My lenguages: HTML, CSS, PHP, JavaScript, MySQL, jQuery, Java, Laravel 
